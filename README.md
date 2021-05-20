@@ -1,6 +1,6 @@
 # Urban-Tech-Hackathon-Project
 
-Team name: Shrda Team
+Team name: Sharda Team
 
 Team Members: 
 1. Shamsuddinov Oyatullo
